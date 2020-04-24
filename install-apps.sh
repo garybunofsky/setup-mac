@@ -4,6 +4,7 @@ brew install \
 	yarn \
 	ack \
 	antigen \
+	nvm \
 	make
 
 # Apps
